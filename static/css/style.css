@@ -1257,7 +1257,7 @@ a.dtbtn:hover {
 }
 /* ===== 6. Service Area CSS ===== */
 .vc_ser_area {
-    background-image: url("../image/service1-bg.jpg");
+    background-image: url("../image/service2-bg.jpg");
     padding: 115px 0 175px 0;
 }
 .vc_ser_area .witr_section_title {
@@ -3594,7 +3594,7 @@ button:focus {
     padding-bottom: 60px;
     position: relative;
     background-position: center center;
-    background-image: url("../image/service1-bg.jpg");
+    background-image: url("../image/service2-bg.jpg");
 }
 .breadcumb-area:before, .breadcumb-blog-area:before {
     position: absolute;
