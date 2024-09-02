@@ -3943,9 +3943,9 @@ p.form-messege{
     border-radius: 5px;
     color: #fff;
 }
-.contact_page_area .service-item:hover i{
-    background: #111111;
-}
+/*.contact_page_area .service-item:hover i{*/
+/*    background: #111111;*/
+/*}*/
 .contact_page_area .service-item h3 {
     padding: 15px 0 10px;
 }
